@@ -3,7 +3,9 @@
 
 Description
 -----------------------------------------------------------------------------------
-Moving platforms sample for Urho3D.
+Moving platforms sample for Urho3D. 
+
+*Note:* Kinematic rigid body would be preferable, but I haven't got around to implementing it.
 
 
 Screenshots
